@@ -9,3 +9,4 @@ https://morgenm.github.io/blog/2023/phishing-detection-ai/
 https://www.geeksforgeeks.org/python-word-embedding-using-word2vec/  
 ## References
 **Original Project**: [NLP AI Phishing Detection by Morgenm](https://morgenm.github.io/blog/2023/phishing-detection-ai/)
+**Word Embedding**: [Word Embedding using Word2Vec](https://www.geeksforgeeks.org/python-word-embedding-using-word2vec/)
